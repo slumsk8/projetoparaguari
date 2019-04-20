@@ -1,0 +1,42 @@
+/* Estilos CSS */
+body{
+	background-color: #F0FFFF;
+}
+
+input[type=submit]{
+        background: transparent;
+        color:black;
+		font-family: "Lucida Console", Monaco, monospace;
+		font-size: 14px;
+}
+
+input[type=reset]{
+        background: transparent;
+        color:black;
+		font-family: "Lucida Console", Monaco, monospace;
+		font-size: 14px;
+}
+
+form{ 
+	margin: 0 auto;
+	text-align: center;
+}
+
+table{
+	border: 0px;
+	margin: 0 auto;
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: #66CDAA;	
+}
+
+h2{
+	text-align: center;
+	color: black;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+select{
+	width: 173px;
+	height: 21px;		
+}
+
